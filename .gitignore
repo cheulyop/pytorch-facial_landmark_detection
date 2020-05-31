@@ -1,0 +1,9 @@
+# directories to ignore
+__pycache__/
+models/
+data/
+notebooks/
+
+# files to ignore
+.ipynb_checkpoints
+mobilenetv2.py
