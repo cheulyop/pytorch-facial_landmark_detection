@@ -7,3 +7,4 @@ notebooks/
 # files to ignore
 .ipynb_checkpoints
 mobilenetv2.py
+test_img.png
